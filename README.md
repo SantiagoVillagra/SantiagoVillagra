@@ -17,7 +17,6 @@ Soy un desarrollador Full-Stack  y Diseñador Industrial. Me apasiona crear solu
 
 ## Contacto
 - **Email:** sanmavillagra@gmail.com
-- **LinkedIn:** (https://www.linkedin.com/in/santiagovillagra/)
-
+- **LinkedIn:** https://www.linkedin.com/in/santiagovillagra/
 
 
