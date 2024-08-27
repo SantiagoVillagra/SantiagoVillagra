@@ -1,16 +1,23 @@
-## Hi there 👋
+![Descripción de la Imagen](https://github.com/SantiagoVillagra/imagenReadMe/raw/main/Portada.jpg)
+
+## Hola! Soy Santiago Villagra. 👋
 
 <!--
-**SantiagoVillagra/SantiagoVillagra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy un desarrollador Full-Stack  y Diseñador Industrial. Me apasiona crear soluciones que impacten positivamente en la resolucion de problemas y  las experiencias de usuario.
+## Proyectos Destacados
+- [ShopSport](https://pf-henry-trabajofinal.vercel.app/): Una plataforma ecommerce para venta de calzado deportivo. Utiliza React-Redux en el frontend y Node.js en el backend.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades Técnicas
+- **Lenguajes:** JavaScript, TypeScript, Python
+- **Frontend:** React, Redux, HTML, CSS
+- **Backend:** Node.js, Express, Sequelize
+- **Herramientas:** Git, VScode, Illustrator
+
+## Contacto
+- **Email:** sanmavillagra@gmail.com
+- **LinkedIn:** (https://www.linkedin.com/in/santiagovillagra/)
+
+
+
