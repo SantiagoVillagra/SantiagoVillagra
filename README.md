@@ -10,7 +10,7 @@ Soy un desarrollador Full-Stack  y Diseñador Industrial. Me apasiona crear solu
 
 
 ## Habilidades Técnicas
-- **Lenguajes:** JavaScript, TypeScript, Python
+- **Lenguajes:** JavaScript
 - **Frontend:** React, Redux, HTML, CSS
 - **Backend:** Node.js, Express, Sequelize
 - **Herramientas:** Git, VScode, Illustrator
