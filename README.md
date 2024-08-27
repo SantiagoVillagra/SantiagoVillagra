@@ -2,7 +2,7 @@
 
 ## Hola! Soy Santiago Villagra. 👋
 
-<!--
+
 ## Sobre mí
 Soy un desarrollador Full-Stack  y Diseñador Industrial. Me apasiona crear soluciones que impacten positivamente en la resolucion de problemas y  las experiencias de usuario.
 ## Proyectos Destacados
