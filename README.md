@@ -14,8 +14,8 @@ Soy un desarrollador Full-Stack  y Diseñador Industrial. El desarrollo debe ser
 - **Backend:** Node.js, Express, Sequelize, C#
 - **Frameworks y librerias:** Node.js, Express, Sequelize, ASP.NET Core Web API,ReactJS & Redux,Entity Framework Core
 - **Herramientas:** Git, VScode, Illustrator, SqlServer
-- **QA manual:** Git, VScode, Illustrator, SqlServer
-
+- **QA manual:**
+  
 ## Contacto
 - **Email:** sanmavillagra@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/santiagovillagra/
