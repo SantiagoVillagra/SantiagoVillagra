@@ -4,7 +4,7 @@
 
 
 ## Sobre mí
-Soy un desarrollador Full-Stack  y Diseñador Industrial. Me apasiona crear soluciones que impacten positivamente en la resolucion de problemas y  las experiencias de usuario.
+Soy un desarrollador Full-Stack  y Diseñador Industrial. El desarrollo debe ser una herramienta para crear soluciones que impacten positivamente en la resolucion de problemas y  las experiencias de usuario.
 ## Proyectos Destacados
 - [ShopSport](https://pf-henry-trabajofinal.vercel.app/): Una plataforma ecommerce para venta de calzado deportivo. Utiliza React-Redux en el frontend y Node.js en el backend.
 
